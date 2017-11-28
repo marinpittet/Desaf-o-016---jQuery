@@ -1,0 +1,17 @@
+input {
+	text-align: center;
+}
+
+#nombre {
+	margin-top: 50px;
+	margin-bottom: 5px;
+}
+
+#final{
+	margin-top: 10px;
+	text-transform: capitalize;
+}
+
+.enviar{
+	margin-top: 5px;
+}

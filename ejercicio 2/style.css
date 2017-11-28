@@ -1,0 +1,21 @@
+.jumbotron {
+	text-align: center;	
+	text-transform: uppercase;
+	font-family: 'Raleway Dots', cursive;	
+}
+
+input.al {
+	margin-top: 20px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+input.pe {
+	margin-top: 0;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+.gordo {
+	text-align: center;
+}
